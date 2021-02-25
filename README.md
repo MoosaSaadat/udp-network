@@ -1,3 +1,6 @@
+![build-passing](https://img.shields.io/badge/Build-passing-success?style=flat-square)
+![made-with-c](https://img.shields.io/badge/Made%20with-C-informational?style=flat-square)
+
 # UDP Client-Server Network
 
 This simple application is a client-server network using **UDP** protocol to transfer messages from one client to another.
